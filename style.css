@@ -1039,14 +1039,14 @@ button, button:focus {
      # Bradcrumb 
 =================================================================== */
 .breadcrumb-area {
-  padding: 150px 0;
+  padding: 250px 0;
+  margin-top: 98px !important;
 }
 
 .breadcrumb-area .breadcrumb {
   background: transparent none repeat scroll 0 0;
   border: 1px solid rgba(255, 255, 255, 0.3);
   display: inline-block;
-  margin: 0;
   position: relative;
   z-index: 1;
   padding: 12px 15px;
@@ -2216,7 +2216,7 @@ body,
   content: "";
   height: 100%;
   width: 1px;
-  background: rgba(255, 255, 255, 0.2);
+  background: #ff5900;
   transform: skewX(-7deg);
 }
 
@@ -5304,7 +5304,7 @@ footer .fixed-shape img {
 
 .footer-top.bg-dark {
   border: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid #ff5900;
 }
 
 .footer-top form {
@@ -5314,7 +5314,7 @@ footer .fixed-shape img {
 }
 
 .footer-top.bg-dark form {
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid #ff5900;
   background: rgba(255, 255, 255, 0.05);
 }
 
@@ -5352,8 +5352,8 @@ footer .fixed-shape img {
 }
 
 .footer-top.bg-dark .subscribe-form {
-  border-left: 1px solid rgba(255, 255, 255, 0.2);
-  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-left: 1px solid #ff5900;
+  border-right: 1px solid #ff5900;
 }
 
 .footer-top h4 {
@@ -5403,7 +5403,7 @@ footer .contact ul li i {
 }
 
 footer.bg-dark .contact ul li i {
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: #ff620033;
 }
 
 footer .contact ul li:last-child {
@@ -5450,7 +5450,7 @@ footer .opening-hours li {
 }
 
 footer.bg-dark .opening-hours li {
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: #ff5900;
   color: #cccccc;
 }
 
