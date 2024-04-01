@@ -129,7 +129,8 @@ p {
   line-height: 28px;
   margin: 0 0 15px;
   text-transform: none;
-  font-weight: 400;
+  font-weight: 600;
+  font-size: 14px;
 }
 
 hr {
